@@ -1,0 +1,109 @@
+,MentalHealthFacCnt,SubstanceAbuseFacCnt,State,YEAR
+1,100,58,Alaska,2014
+3,201,59,Alabama,2014
+5,265,99,Arkansas,2014
+6,2,2,American Samoa,2014
+10,432,298,Arizona,2014
+14,878,387,California,2014
+16,202,150,Colorado,2014
+18,251,157,Connecticut,2014
+20,39,23,District of Columbia,2014
+22,43,19,Delaware,2014
+24,546,305,Florida,2014
+26,229,169,Georgia,2014
+28,2,1,Guam,2014
+30,63,37,Hawaii,2014
+34,175,56,Iowa,2014
+36,210,95,Idaho,2014
+40,478,190,Illinois,2014
+42,319,219,Indiana,2014
+46,138,66,Kansas,2014
+48,205,153,Kentucky,2014
+50,176,99,Louisiana,2014
+54,353,222,Massachusetts,2014
+56,309,129,Maryland,2014
+58,209,107,Maine,2014
+60,355,231,Michigan,2014
+62,241,78,Minnesota,2014
+64,226,110,Missouri,2014
+68,206,116,Mississippi,2014
+70,108,48,Montana,2014
+72,395,170,North Carolina,2014
+74,29,19,North Dakota,2014
+76,114,77,Nebraska,2014
+78,65,33,New Hampshire,2014
+80,352,178,New Jersey,2014
+82,68,38,New Mexico,2014
+84,46,25,Nevada,2014
+88,1108,511,New York,2014
+90,582,311,Ohio,2014
+92,164,100,Oklahoma,2014
+94,194,91,Oregon,2014
+98,634,194,Pennsylvania,2014
+100,109,67,Puerto Rico,2014
+102,68,49,Rhode Island,2014
+104,133,58,South Carolina,2014
+106,55,28,South Dakota,2014
+108,321,184,Tennessee,2014
+110,340,161,Texas,2014
+112,119,72,Utah,2014
+116,315,182,Virginia,2014
+117,9,9,Virgin Islands,2014
+119,85,41,Vermont,2014
+123,256,116,Washington,2014
+125,462,286,Wisconsin,2014
+127,117,88,West Virginia,2014
+129,55,43,Wyoming,2014
+1,93,62,Alaska,2019
+3,180,67,Alabama,2019
+5,202,90,Arkansas,2019
+7,421,312,Arizona,2019
+9,952,444,California,2019
+11,190,132,Colorado,2019
+13,230,160,Connecticut,2019
+15,39,16,District of Columbia,2019
+17,36,29,Delaware,2019
+19,520,310,Florida,2019
+21,236,197,Georgia,2019
+23,39,23,Hawaii,2019
+25,143,63,Iowa,2019
+27,140,65,Idaho,2019
+29,397,205,Illinois,2019
+31,285,215,Indiana,2019
+33,115,62,Kansas,2019
+35,218,164,Kentucky,2019
+37,189,95,Louisiana,2019
+39,330,193,Massachusetts,2019
+41,282,113,Maryland,2019
+43,181,96,Maine,2019
+45,368,248,Michigan,2019
+47,266,104,Minnesota,2019
+49,208,114,Missouri,2019
+51,169,109,Mississippi,2019
+53,85,51,Montana,2019
+55,297,174,North Carolina,2019
+57,33,19,North Dakota,2019
+59,145,97,Nebraska,2019
+61,70,40,New Hampshire,2019
+63,313,167,New Jersey,2019
+65,69,44,New Mexico,2019
+67,66,31,Nevada,2019
+69,860,402,New York,2019
+73,615,378,Ohio,2019
+75,145,108,Oklahoma,2019
+77,183,87,Oregon,2019
+79,585,175,Pennsylvania,2019
+81,79,54,Puerto Rico,2019
+83,63,53,Rhode Island,2019
+85,106,33,South Carolina,2019
+87,49,27,South Dakota,2019
+89,298,181,Tennessee,2019
+91,384,213,Texas,2019
+93,240,157,Utah,2019
+95,291,199,Virginia,2019
+97,68,39,Vermont,2019
+99,398,190,Washington,2019
+101,429,277,Wisconsin,2019
+103,117,96,West Virginia,2019
+105,45,38,Wyoming,2019
+107,9,7,Other,2019

@@ -1,0 +1,88 @@
+,YEAR,State,AnyDisorder,disorderCount
+0,2019,Alabama,No,162
+1,2019,Alabama,Yes,95632
+2,2019,Alaska,No,232
+3,2019,Alaska,Yes,10780
+4,2019,Arkansas,No,15994
+5,2019,Arkansas,Yes,60054
+6,2019,California,No,40976
+7,2019,California,Yes,660144
+8,2019,Colorado,No,1870
+9,2019,Colorado,Yes,134658
+10,2019,Connecticut,No,47169
+11,2019,Connecticut,Yes,45096
+12,2019,Delaware,No,3544
+13,2019,Delaware,Yes,9878
+14,2019,District of Columbia,No,8516
+15,2019,District of Columbia,Yes,36528
+16,2019,Florida,No,29731
+17,2019,Florida,Yes,174302
+18,2019,Hawaii,No,1037
+19,2019,Hawaii,Yes,8487
+20,2019,Idaho,No,511
+21,2019,Idaho,Yes,5831
+22,2019,Illinois,No,219
+23,2019,Illinois,Yes,42291
+24,2019,Indiana,No,279
+25,2019,Indiana,Yes,138842
+26,2019,Kentucky,No,1083
+27,2019,Kentucky,Yes,157787
+28,2019,Louisiana,No,3493
+29,2019,Louisiana,Yes,15985
+30,2019,Maryland,No,2103
+31,2019,Maryland,Yes,223862
+32,2019,Massachusetts,No,17700
+33,2019,Massachusetts,Yes,8553
+34,2019,Michigan,No,7936
+35,2019,Michigan,Yes,213527
+36,2019,Minnesota,No,26001
+37,2019,Minnesota,Yes,261613
+38,2019,Mississippi,No,491
+39,2019,Mississippi,Yes,85489
+40,2019,Missouri,Yes,76504
+41,2019,Montana,No,128
+42,2019,Montana,Yes,45820
+43,2019,Nebraska,No,1030
+44,2019,Nebraska,Yes,18834
+45,2019,Nevada,No,2438
+46,2019,Nevada,Yes,8842
+47,2019,New Jersey,No,72811
+48,2019,New Jersey,Yes,269342
+49,2019,New Mexico,No,16
+50,2019,New Mexico,Yes,202380
+51,2019,New York,No,1088
+52,2019,New York,Yes,37117
+53,2019,North Carolina,No,9343
+54,2019,North Carolina,Yes,97720
+55,2019,North Dakota,No,5879
+56,2019,North Dakota,Yes,8667
+57,2019,Ohio,No,4631
+58,2019,Ohio,Yes,560143
+59,2019,Oklahoma,No,5523
+60,2019,Oklahoma,Yes,83234
+61,2019,Oregon,No,1629
+62,2019,Oregon,Yes,141027
+63,2019,Pennsylvania,No,82978
+64,2019,Pennsylvania,Yes,503900
+65,2019,Rhode Island,No,1249
+66,2019,Rhode Island,Yes,29041
+67,2019,South Carolina,No,4653
+68,2019,South Carolina,Yes,94841
+69,2019,South Dakota,No,55
+70,2019,South Dakota,Yes,14560
+71,2019,Tennessee,No,596
+72,2019,Tennessee,Yes,63430
+73,2019,Texas,No,113453
+74,2019,Texas,Yes,281032
+75,2019,Utah,No,4036
+76,2019,Utah,Yes,44771
+77,2019,Vermont,No,71
+78,2019,Vermont,Yes,584
+79,2019,Virginia,No,3935
+80,2019,Virginia,Yes,113682
+81,2019,Washington,No,2682
+82,2019,Washington,Yes,189913
+83,2019,Wisconsin,No,7737
+84,2019,Wisconsin,Yes,66500
+85,2019,Wyoming,No,435
+86,2019,Wyoming,Yes,15844

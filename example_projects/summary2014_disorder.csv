@@ -1,0 +1,91 @@
+,YEAR,State,AnyDisorder,disorderCount
+0,2014,Alabama,No,330
+1,2014,Alabama,Yes,86084
+2,2014,Arizona,No,24
+3,2014,Arizona,Yes,153631
+4,2014,Arkansas,No,3396
+5,2014,Arkansas,Yes,63711
+6,2014,California,No,5062
+7,2014,California,Yes,646664
+8,2014,Colorado,No,1175
+9,2014,Colorado,Yes,112996
+10,2014,Connecticut,No,10503
+11,2014,Connecticut,Yes,76758
+12,2014,Delaware,No,953
+13,2014,Delaware,Yes,8988
+14,2014,District of Columbia,No,2156
+15,2014,District of Columbia,Yes,22886
+16,2014,Florida,No,47429
+17,2014,Florida,Yes,156836
+18,2014,Hawaii,No,668
+19,2014,Hawaii,Yes,11486
+20,2014,Idaho,No,3909
+21,2014,Idaho,Yes,4302
+22,2014,Illinois,No,8
+23,2014,Illinois,Yes,134895
+24,2014,Indiana,No,799
+25,2014,Indiana,Yes,128360
+26,2014,Iowa,No,26609
+27,2014,Iowa,Yes,84696
+28,2014,Kansas,No,340
+29,2014,Kansas,Yes,44786
+30,2014,Kentucky,No,4091
+31,2014,Kentucky,Yes,149091
+32,2014,Louisiana,No,479
+33,2014,Louisiana,Yes,21764
+34,2014,Maryland,No,364
+35,2014,Maryland,Yes,164959
+36,2014,Massachusetts,No,2021
+37,2014,Massachusetts,Yes,30013
+38,2014,Minnesota,No,8966
+39,2014,Minnesota,Yes,196828
+40,2014,Mississippi,No,777
+41,2014,Mississippi,Yes,46465
+42,2014,Missouri,No,99
+43,2014,Missouri,Yes,71580
+44,2014,Montana,No,5022
+45,2014,Montana,Yes,38759
+46,2014,Nebraska,No,1466
+47,2014,Nebraska,Yes,20867
+48,2014,Nevada,No,1150
+49,2014,Nevada,Yes,17504
+50,2014,New Jersey,No,41176
+51,2014,New Jersey,Yes,226524
+52,2014,New Mexico,No,6311
+53,2014,New Mexico,Yes,86795
+54,2014,New York,No,741
+55,2014,New York,Yes,36151
+56,2014,North Carolina,No,7599
+57,2014,North Carolina,Yes,211844
+58,2014,North Dakota,No,1665
+59,2014,North Dakota,Yes,12403
+60,2014,Ohio,No,11649
+61,2014,Ohio,Yes,358905
+62,2014,Oklahoma,No,849
+63,2014,Oklahoma,Yes,40794
+64,2014,Oregon,No,41596
+65,2014,Oregon,Yes,63665
+66,2014,Pennsylvania,No,103508
+67,2014,Pennsylvania,Yes,482573
+68,2014,Rhode Island,No,13
+69,2014,Rhode Island,Yes,19067
+70,2014,South Carolina,No,2058
+71,2014,South Carolina,Yes,78235
+72,2014,South Dakota,No,10
+73,2014,South Dakota,Yes,13124
+74,2014,Tennessee,No,5454
+75,2014,Tennessee,Yes,103501
+76,2014,Texas,No,68748
+77,2014,Texas,Yes,232148
+78,2014,Utah,No,3198
+79,2014,Utah,Yes,40566
+80,2014,Vermont,No,1203
+81,2014,Vermont,Yes,8141
+82,2014,Virginia,No,4463
+83,2014,Virginia,Yes,99747
+84,2014,Washington,No,7671
+85,2014,Washington,Yes,123176
+86,2014,Wisconsin,No,8502
+87,2014,Wisconsin,Yes,90934
+88,2014,Wyoming,No,432
+89,2014,Wyoming,Yes,16269
