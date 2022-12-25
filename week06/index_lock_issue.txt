@@ -1,0 +1,5 @@
+open terminal then use the code below to solve (Fatal: unable to create '/home/jupyter-lhuangslu/hds5210-2022/.git/index.lock': File exists.) problem
+
+cd hds5210-2022
+
+rm -f ./.git/index.lock
